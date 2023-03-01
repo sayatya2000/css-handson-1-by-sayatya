@@ -1,0 +1,14 @@
+.heading1{color: rgb(218, 35, 35);}
+.heading2{color:rgb(218, 35, 35) ;
+   font-style: italic;}
+.ol{color:rgb(119, 25, 25);}   
+.linethrough{text-decoration: line-through;}
+.background{background-color: yellow;}
+.underline{text-decoration: underline;}
+.ul{color:rgb(119, 25, 25);
+      letter-spacing: 4px;}
+.anchortag{font-style: italic;
+        text-decoration: none;
+        color:rgb(119, 25, 25);
+      background-color: yellow;}      
+
