@@ -4,7 +4,8 @@
 .ol{color:rgb(119, 25, 25);}   
 .linethrough{text-decoration: line-through;}
 .background{background-color: yellow;}
-.underline{text-decoration: underline;}
+.underline{text-decoration: underline;
+font-style: italic;}
 .ul{color:rgb(119, 25, 25);
       letter-spacing: 4px;}
 .anchortag{font-style: italic;
